@@ -1,0 +1,8 @@
+#header{
+    text-align:center;
+    color:tomato;
+}
+
+[title~="flower"]{
+    color:blue;
+}
