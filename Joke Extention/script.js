@@ -17,19 +17,8 @@ function jokeGenerator(){
 
 }
 
-
+jokeGenerator();
 
 
 
 generateBtn.addEventListener("click",jokeGenerator);
-
-// let x = prompt("enter number:")
-
-
-function sum(x,y){
-    return x+y;
-}
-
-console.log(sum(1,2))
-
-console.log(new Date())
